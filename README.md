@@ -4,6 +4,6 @@ This bot allows you to send messages to anyone on whatsapp any given number of t
 # Requirements
 selenium
 
-Install it with "pip install selenium"
+Install it with "pip install selenium" or use "pip install -r requirements.txt".
 
 At the beginning make sure to scan the QR code to log into Whatsapp.
